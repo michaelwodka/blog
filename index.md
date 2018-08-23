@@ -5,4 +5,4 @@
 layout: home
 title:  "Blog"
 ---
-Search through the list below to find my latest blog posts on software development, how-to-guides on web and mobile application developments, and technology trends:
+Search below for my latest blog posts on software development, how-to-guides on web and mobile app development, and technology trends:
