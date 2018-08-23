@@ -20,6 +20,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          <img style = "max-width: 400px; max-height:400px; padding-top:20px;" src = "{{ post.imgurl | relative_url }}"
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
