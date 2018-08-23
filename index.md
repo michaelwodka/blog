@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:  "Welcome"
+title:  "Blog"
 ---
 Search through the list below to find my latest blog posts on software development, how-to-guides on web and mobile application developments, and technology trends:
