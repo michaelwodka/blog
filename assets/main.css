@@ -54,8 +54,8 @@ figure > img { display: block; }
 figcaption { font-size: 14px; }
 
 /** Lists */
-ul, ol { margin-left: 30px; }
-
+/*ul, ol { margin-left: 30px; }
+*/
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
