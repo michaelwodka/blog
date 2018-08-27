@@ -1,6 +1,13 @@
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name ="description" content = "Software developer and quantitative analyst with a passion for full-stack web development, software automation, and data analytics.">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<meta property='og:title' content="{{ page.title }}" />
+	<meta property='og:image' content="{{ 'https://michaelwodka.com/blog' | append: page.imgurl }}" />
+	<meta property='og:description' content="{{ page.description }}" />
+	<meta property='og:url' content="{{ 'https://michaelwodka.com/blog' | append: page.url }}" />
+	<meta property='og:type' content="website" />
+
+	<meta name ="description" content = "{{ page.description }}" />
 	<meta charset="UTF-8">
 
 	<script>
@@ -13,7 +20,7 @@
 	ga('send', 'pageview');
 
 	</script>
-	<title>Michael Wodka | Software Developer</title>
+	<title>{{ page.title }}</title>
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">

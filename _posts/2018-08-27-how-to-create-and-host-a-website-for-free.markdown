@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "How to create and host a website for free (even if you're not tech-savvy)"
+title: How to create and host a website for free (even if you're not tech-savvy)
+description: Do not use website builder services like Wix or Weebly for your personal website; learn how to build and host your website for free using Github Pages, Jekyll, Google Analytics, and Youtube!
 permalink: /how-to-create-and-host-a-website-for-free/
 youtubeId: SWVjQsvQocA
-imgurl: /assets/meta-image-1.jpg
+imgurl: /assets/post-1.jpg
 ---
 
 ![image tooltip here]({{page.imgurl|relative_url}})
