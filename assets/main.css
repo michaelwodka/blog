@@ -1,20 +1,31 @@
 /** Reset some basic elements */
-body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+body, h1, h2, h3, h4, h5, h6, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
+
+#linkToWebsite{
+	font-size: 14px;
+}
+
+.social-media-list{margin-bottom: 15px;}
 
 @media only screen and (max-width: 800px) {
 	body {
 		font-family: 'Rubick', sans-serif;
+		font-size: 20px;
 		overflow-y: scroll;
 		overflow-x: hidden;
+		line-height: 1.5;
 	}
 }
 
 @media only screen and (min-width: 801px) {
 	body {
 		font-family: 'Rubick', sans-serif;
+		font-size: 20px;
 		overflow-y: scroll;
 		overflow-x: hidden;
 		margin-bottom: 90px;
+		line-height: 1.5;
 	}
 }
 
@@ -40,7 +51,7 @@ h1 {
 
 
 /** Set `margin-bottom` to maintain vertical rhythm */
-h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, hr, .highlight { margin-bottom: 25px; }
 
 /** `main` element */
 main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
@@ -53,9 +64,6 @@ figure > img { display: block; }
 
 figcaption { font-size: 14px; }
 
-/** Lists */
-/*ul, ol { margin-left: 30px; }
-*/
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
