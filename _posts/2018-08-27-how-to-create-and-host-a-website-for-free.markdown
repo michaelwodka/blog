@@ -11,7 +11,7 @@ imgurl2: /assets/post1-image2.jpg
 
 ![image tooltip here]({{page.imgurl1|relative_url}})
 
-Nowadays, creating your own website is a relatively simple task. Gone are the days of learning HTML and figuring out how to host a website on a server. Now there are a multitude of website-building services such as [**Wix**](https://www.wix.com/), [**Squarespace**](https://www.squarespace.com/), and [**Weebly**](https://www.weebly.com/). Even if you're not tech-saavy and just need to quickly build a website, these options can be very enticing given their drag-and-drop user interfaces, variety of sleek designs, and simple deployment methods.
+Nowadays, creating your own website is a relatively simple task. Gone are the days of learning HTML and figuring out how to host a website on a server. Now there are a multitude of website-building services such as [**Wix**](https://www.wix.com/), [**Squarespace**](https://www.squarespace.com/), and [**Weebly**](https://www.weebly.com/). Even if you're not tech-savvy and just need to quickly build a website, these options can be very enticing given their drag-and-drop user interfaces, variety of sleek designs, and simple deployment methods.
 
 However, the huge downside to these website-building services is that they can be quite costly over time ($5-$25 per month depending on your feature set), and if you ever want to migrate your website to your own server or another website builder, you are basically starting from scratch. 
 
