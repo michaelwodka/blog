@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to create and host a website for free (even if you're not tech-savvy)
-description: Do not use website builder services like Wix or Weebly for your personal website; learn how to build and host your website for free using GitHub Pages, Jekyll, Google Analytics, and Youtube!
+description: Do not use website builder services like Wix or Weebly for your personal website; learn how to build and host your website for free using GitHub Pages, Jekyll, Google Analytics, and YouTube!
 permalink: /how-to-create-and-host-a-website-for-free/
 youtubeId1: SWVjQsvQocA
 youtubeId2: EBvJaUSbAUA
@@ -27,9 +27,9 @@ And when I say **FREE**, I'm saying building the website is **FREE** and ongoing
 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
-Now for my non tech-saavy readers, if you ever heard of GitHub, you may think it's a service only for techie programmers. Now it's true that GitHub is huge in the software development world, and is the de facto method to gain version control over your code, back up your software projects to the cloud, and share your code with other programmers. 
+Now for my non-tech-savvy readers, if you ever heard of GitHub, you may think it's a service only for techie programmers. Now it's true that GitHub is huge in the software development world and is the de facto method to gain version control over your code, back up your software projects to the cloud, and share your code with other programmers. 
 
-However, a little known feature to GitHub is that it allows you to host your own personal website absolutely for free (no monthly fees, no startup fees, just **FREE**). It's done through [**GitHub Pages**](https://pages.github.com/), which is way to host a website directly on GitHub, and [**Jekyll**](https://jekyllrb.com/), a static-site generator that allows to covert plain text into feature rich web pages.
+However, a little-known feature to GitHub is that it allows you to host your own personal website absolutely for free (no monthly fees, no startup fees, just **FREE**). It's done through [**GitHub Pages**](https://pages.github.com/), which is way to host a website directly on GitHub, and [**Jekyll**](https://jekyllrb.com/), a static-site generator that allows to covert plain text into feature rich web pages.
 
 Now there is a bit of a learning curve to using GitHub and Jekyll. For example, you have to use the Command Prompt (Windows) or Terminal (Mac) to get the project started and make updates, but once you've done it a few times, it becomes very second nature. And if you're still thinking it's not worth it to learn, think about the $100-$400 you're spending per year to use Wix or Squarespace and whether you want that money back in exchange for a **FREE**, fully customizable, and more feature-rich website-building solution.
 
@@ -49,7 +49,7 @@ To set up Google Analytics, I encourage you to watch the video above or read [**
 
 ---
 
-## Embeding YouTube videos in your website
+## Embedding YouTube videos in your website
 
 ![image tooltip here]({{page.imgurl2|relative_url}})
 
@@ -57,4 +57,4 @@ One of the best ways to make an engaging website is to include video content. It
 
 If you're interested in putting videos on your website, I recommend you always embed videos rather than upload the raw video files to your website. Embedding videos is a much a simpler process, and you don't have to use up any storage on your website to embed videos. And when I say "embed", it's a way of displaying the full video on your website through a hyperlink.
 
-If your interested in embedding YouTube videos into your GitHub Pages/Jekyll website, I highly recommend you check out [**this guide from Adam Garrett-Harris**](https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/). It's short, simple, and very insightful.
+If you're interested in embedding YouTube videos into your GitHub Pages/Jekyll website, I highly recommend you check out [**this guide from Adam Garrett-Harris**](https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/). It's short, simple, and very insightful.
