@@ -19,7 +19,7 @@ In addition, even if you choose the cheapest or free plans that these services o
 
 What if I told you there was a way to build and host your own website absolutely for **FREE**, and you can use your own custom designs, embed video content, and have advanced features like tools to analyze your website traffic.
 
-And when I say **FREE**, I'm saying building the website is **FREE** and ongoing hosting of the website is **FREE**. If you're thinking this is too good to be true, think again! By using free services such as [**Github Pages**](https://pages.github.com/), [**Jekyll**](https://jekyllrb.com/), [**Google Analytics**](https://analytics.google.com/analytics/web/), and [**YouTube**](https://www.youtube.com/) you can create your own feature-rich website and host it for **FREE**!
+And when I say **FREE**, I'm saying building the website is **FREE** and ongoing hosting of the website is **FREE**. If you're thinking this is too good to be true, think again! By using free services such as [**Github Pages**](https://pages.github.com/), [**Jekyll**](https://jekyllrb.com/), [**Google Analytics**](https://analytics.google.com/analytics/web/), and [**YouTube**](https://www.youtube.com/), you can create your own feature-rich website and host it for **FREE**!
 
 ----
 
@@ -31,7 +31,7 @@ Now for my non tech-saavy readers, if you ever heard of Github, you may think it
 
 However, a little known feature to Github is that it allows you to host your own personal website absolutely for free (no monthly fees, no startup fees, just **FREE**). It's done through [**Github Pages**](https://pages.github.com/), which is way to host a website directly on Github, and [**Jekyll**](https://jekyllrb.com/), a static-site generator that allows to covert plain text into feature rich web pages.
 
-Now there is a bit of a learning curve to using Github and Jekyll. For example, you have to use the Command Prompt (Windows) or Terminal (Mac) to get the project started and make updates, but once you've done it a few times, it becomes very second nature. And if you're still thinking it's not worth it to learn, think about $100-$400 you're spending per year to use Wix or SquareSpace and whether you want that money back in exchange for a **FREE**, fully customizable, and more feature-rich website-building solution.
+Now there is a bit of a learning curve to using Github and Jekyll. For example, you have to use the Command Prompt (Windows) or Terminal (Mac) to get the project started and make updates, but once you've done it a few times, it becomes very second nature. And if you're still thinking it's not worth it to learn, think about the $100-$400 you're spending per year to use Wix or Squarespace and whether you want that money back in exchange for a **FREE**, fully customizable, and more feature-rich website-building solution.
 
 Rather than explain step-by-step on how to set up Github Pages and Jekyll, I highly encourage you to watch the video above or follow [**Github Page's official instructions**](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
@@ -53,7 +53,7 @@ To set up Google Analytics, I encourage you to watch the video above or read [**
 
 ![image tooltip here]({{page.imgurl2|relative_url}})
 
-One the best ways to make an engaging website is to include video. It's now being said that "if a picture is worth a thousand words, then a video is worth a million!" Even if you disagree, video content has been proven to dramatically increase website engagement. On average, users spend [**88%**](http://www.sheffieldav.com/production/5-reasons-we-love-video-marketing-and-you-should-too) more time on a website that has video content.
+One of the best ways to make an engaging website is to include video content. It's now being said that "if a picture is worth a thousand words, then a video is worth a million!" Even if you disagree, video content has been proven to dramatically increase website engagement. On average, users spend [**88%**](http://www.sheffieldav.com/production/5-reasons-we-love-video-marketing-and-you-should-too) more time on a website that has video content.
 
 If you're interested in putting videos on your website, I recommend you always embed videos rather than upload the raw video files to your website. Embedding videos is a much a simpler process, and you don't have to use up any storage on your website to embed videos. And when I say "embed", it's a way of displaying the full video on your website through a hyperlink.
 
