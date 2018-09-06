@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 ways to automate Microsoft Excel through VBA
-description: Tired of doing tedious, repetitive tasks in Excel? If you're a heavy user of Excel and don't know how to use Visual Basic for Applications (VBA), you're losing a ton of productivity. Check out this article to learn 5 ways to automate Excel through VBA.
+description: Tired of doing tedious, repetitive tasks in Excel? If you're a heavy user of Excel and don't know how to use Visual Basic for Applications (VBA), you're losing a ton of productivity. Check out this article to learn how to automate Excel through VBA.
 author: Michael Wodka
 permalink: /five-ways-to-automate-excel-through-vba/
 imgurl1: /assets/2018-09-06-top-five-ways-to-automate-excel/post2-image1.1.png
@@ -24,13 +24,13 @@ Microsoft Excel. Love it or hate it - there is no denying the dominance of this 
 
 If you don't already know, you can use Excel to automatically create PowerPoint presentations, send Outlook emails, move and copy files around your computer, and so much more. This can all be done through Visual Basic for Applications (VBA), the programming language of Excel and other Microsoft Office products.
 
-Now for my non-technical audience, performing basic automation tasks in VBA is actually not that hard. In fact, I will be walking you through the easiest way to utilize VBA: recording a macro, which requires no coding whatsoever! If you are already familiar with VBA, I encourage you to scroll down to the use case sections to see some excellent applications of VBA.
+Now for my non-technical readers, performing basic automation tasks in VBA is actually not that hard. In fact, I will be walking you through the easiest way to utilize VBA: recording a macro, which requires no coding whatsoever! If you are already familiar with VBA, I encourage you to scroll down to the use case sections to get some ideas on how to put VBA into action.
 
-If you're still not convinced on the merits of learning Excel VBA, all I will say is if you've ever done a tedious, repetitive task in Excel such as updating a spreadsheet with new data, using VBA will save you hundreds of hours of work in the long run and make your life much easier.
+Still not sold on learning Excel VBA? All I will say is if you've ever done a tedious, repetitive task in Excel such as updating a spreadsheet with new data, using VBA will save you hundreds of hours of work in the long run and make your life much easier.
 
 ## Setting up VBA in Excel
 
-###### _**Important Note**: this tutorial is assuming that you're working on Windows 10 with Microsoft Excel 2016. If you're using an older version of Windows or Excel, most of this tutorial should still work for you (though not guaranteed). I also can't guarantee this tutorial will work with Excel on macOS. In addition, you need to ensure macros are enabled in Excel for VBA to work in your environment._
+###### _**Important Note**: this tutorial is assuming that you're working on Windows 10 with Microsoft Excel 2016. If you're using an older version of Windows or Excel, most of this tutorial should still work for you (though not guaranteed). I also can't guarantee this tutorial will work with Excel on macOS. In addition, you need to [ensure macros are enabled in Excel for VBA to work in your environment](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)._
 
 Setting up Excel VBA is relatively simple. All you have to do is click the "Developer" tab in the ribbon, and you will gain access to writing VBA scripts and recording macros.
 
@@ -44,7 +44,7 @@ If the "Developer" tab is not showing up in your ribbon, no need to panic! To ad
 
 A macro is an action or a set of actions that you can run as many times as you want in Excel. You can either code a macro using Excel VBA or simply record a set of actions you manually perform in Excel and assign them to a macro.
 
-For my non-technical audience, recording a macro is the easiest way to get started with Excel VBA, and it requires no coding whatsoever. All you need to do is click the "Developer" tab in the ribbon, click the button "Use Relative References" and when you're ready to start recording, click the "Record a Macro" button in the ribbon.
+For my non-technical readers, recording a macro is the easiest way to get started with Excel VBA, and it requires no coding whatsoever. All you need to do is click the "Developer" tab in the ribbon, click the button "Use Relative References" and when you're ready to start recording, click the "Record a Macro" button in the ribbon.
 
 You will then get a pop-up prompting you to name your macro, write a description, and call it using a shortcut. For the purposes of this tutorial, just click the "Ok" button when you see the screen and keep the default name as "macro1"
 
