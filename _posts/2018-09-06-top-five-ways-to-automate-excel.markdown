@@ -214,3 +214,11 @@ End Sub
 ```
 
 ![]({{page.gifurl9|relative_url}})
+
+----
+
+###### _Did you like this article? If so, follow me on **[LinkedIn](https://www.linkedin.com/in/michaelwodka/)** or **[Twitter](https://twitter.com/MichaelWodka)** to see future blog posts._
+
+###### _Check out my latest web application, **[Reminderbase](https://www.reminderbase.com)**, to set customized email and text message reminders for your customers, colleagues, family, friends, or yourself!_
+
+###### _See my **[personal website](https://michaelwodka.com)** to learn more about me._

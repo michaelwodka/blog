@@ -59,3 +59,11 @@ One of the best ways to make an engaging website is to include video content. It
 If you're interested in putting videos on your website, I recommend you always embed videos rather than upload the raw video files to your website. Embedding videos is a much simpler process, and you don't have to use up any storage on your website to embed videos. And when I say "embed", it's a way of displaying the full video on your website through a hyperlink.
 
 If you want to embed YouTube videos into your GitHub Pages/Jekyll website, I highly recommend you check out [**this guide from Adam Garrett-Harris**](https://adam.garrett-harris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/). It's short, simple, and very insightful.
+
+----
+
+###### _Did you like this article? If so, follow me on **[LinkedIn](https://www.linkedin.com/in/michaelwodka/)** or **[Twitter](https://twitter.com/MichaelWodka)** to see future blog posts._
+
+###### _Check out my latest web application, **[Reminderbase](https://www.reminderbase.com)**, to set customized email and text message reminders for your customers, colleagues, family, friends, or yourself!_
+
+###### _See my **[personal website](https://michaelwodka.com)** to learn more about me._
