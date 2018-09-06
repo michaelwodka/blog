@@ -46,7 +46,7 @@ A macro is an action or a set of actions that you can run as many times as you w
 
 For my non-technical readers, recording a macro is the easiest way to get started with Excel VBA, and it requires no coding whatsoever. All you need to do is click the "Developer" tab in the ribbon, click the button "Use Relative References" and when you're ready to start recording, click the "Record a Macro" button in the ribbon.
 
-You will then get a pop-up prompting you to name your macro, write a description, and call it using a shortcut. For the purposes of this tutorial, just click the "Ok" button when you see the screen and keep the default name as "macro1"
+You will then get a pop-up prompting you to name your macro, write a description, and call it using a shortcut. For the purposes of this tutorial, just click the "Ok" button when you see the screen and keep the default name as "Macro1"
 
 From this point forward, every action you perform in Excel will now be recorded (e.g., entering data into cells, copying data into different worksheets) and assigned to a macro.
 
