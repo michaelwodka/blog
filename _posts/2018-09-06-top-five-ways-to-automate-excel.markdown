@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 ways to automate Microsoft Excel through VBA
-description: Tired of doing tedious, repetitive tasks in Excel? If you're a heavy user of Excel and don't know how to use Visual Basic for Applications (VBA), you're seriously killing your productivity. Save hundreds of hours of Excel work by learning how to code in VBA.
+description: Tired of doing tedious, repetitive tasks in Excel? If you're a heavy user of Excel and don't know how to use Visual Basic for Applications (VBA), you're losing a ton of productivity. Check out this article to learn 5 ways to automate Excel through VBA.
 author: Michael Wodka
 permalink: /five-ways-to-automate-excel-through-vba/
 imgurl1: /assets/2018-09-06-top-five-ways-to-automate-excel/post2-image1.1.png
