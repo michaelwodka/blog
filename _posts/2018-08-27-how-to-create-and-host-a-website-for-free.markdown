@@ -2,14 +2,15 @@
 layout: post
 title: How to create and host a website for free (even if you're not tech-savvy)
 description: Do not use website builder services like Wix or Weebly for your personal website; learn how to build and host your website for free using GitHub Pages, Jekyll, Google Analytics, and YouTube!
+author: Michael Wodka
 permalink: /how-to-create-and-host-a-website-for-free/
 youtubeId1: SWVjQsvQocA
 youtubeId2: EBvJaUSbAUA
-imgurl1: /assets/post1-image1.jpg
-imgurl2: /assets/post1-image2.jpg
+imgurl1: /assets/2018-08-27-how-to-create-and-host-a-website-for-free/post1-image1.jpg
+imgurl2: /assets/2018-08-27-how-to-create-and-host-a-website-for-free/post1-image2.jpg
 ---
 
-![image tooltip here]({{page.imgurl1|relative_url}})
+![]({{page.imgurl1|relative_url}})
 
 Nowadays, creating your own website is a relatively simple task. Gone are the days of learning HTML and figuring out how to host a website on a server. Now there are a multitude of website-building services such as [**Wix**](https://www.wix.com/), [**Squarespace**](https://www.squarespace.com/), and [**Weebly**](https://www.weebly.com/). Even if you're not tech-savvy and just need to quickly build a website, these options can be very enticing given their drag-and-drop user interfaces, variety of sleek designs, and simple deployment methods.
 
@@ -51,7 +52,7 @@ To set up Google Analytics, I encourage you to watch the video above or read [**
 
 ## Embedding YouTube videos in your website
 
-![image tooltip here]({{page.imgurl2|relative_url}})
+![]({{page.imgurl2|relative_url}})
 
 One of the best ways to make an engaging website is to include video content. It's now being said that "if a picture is worth a thousand words, then a video is worth a million!" Even if you disagree with this statement, video content has proven to dramatically increase website engagement. On average, users spend [**88%**](http://www.sheffieldav.com/production/5-reasons-we-love-video-marketing-and-you-should-too) more time on a website that has video content.
 

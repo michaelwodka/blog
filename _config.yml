@@ -23,6 +23,7 @@ twitter_username: MichaelWodka
 github_username:  michaelwodka
 facebook_username: mwodka
 linkedin_username: michaelwodka
+future: true
 
 # Build settings
 markdown: kramdown
